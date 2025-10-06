@@ -1,6 +1,7 @@
 # Repeat_Name
 #### CMPINF 0010 Big Ideas in Computing
 Skills Lab 6 - Version Control
+Group 50
 
 #### Authors
 - Mei Satler
